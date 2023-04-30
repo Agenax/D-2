@@ -1,7 +1,7 @@
 # D-2
 D-2 isn't a whelled robot from a famous sci-fi movie but just the second version of my modular drone. It should better be seen as a experimental platform used to develop hardware and electronics part in order to create one day a cheap but heavy drone.
 
-![D2]()
+![D2](https://github.com/Agenax/D-2/blob/fae634481ca96751239a2b756d7d02692b7031cf/D2_photo.png)
 
 FreeCAD model :
 
